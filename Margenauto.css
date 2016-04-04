@@ -1,0 +1,19 @@
+.uno{
+	height: 800x;
+	width: 300px;
+	border:10px solid yellow;
+	display: block;
+	margin: 5px; 
+	margin-bottom: 90px;
+	padding: 25px;
+	text-align: center;
+}
+.dos{
+	height: 800x;
+	width: 300px;
+	border:10px solid yellow;
+	display: block;
+	margin-left: 500px; 
+	padding: 25px;
+	text-align: left;
+}
